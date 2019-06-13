@@ -1,0 +1,20 @@
+$content-width: 800px;
+$main: #696969;
+$font-style: 'Open Sans', sans-serif;
+$font-color: #262626;
+$link-color: #425469; // color in which links show up
+$link-hover-color: $main;
+$heading-font: 'Muli', sans-serif;
+$heading-font-color: #425469;
+$light: #e7edf4;
+$header: #000080; // the color of the higlighter
+$navbar-background: #000000; // color of navbar
+$navbar_text: #FFFFFF; // color of text on navbar
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
