@@ -10,7 +10,7 @@ When I am not being a grad student, I can be found racing keelboats on Lake Mend
 #### Publications 
 An up to date publication list can be found [here](https://scholar.google.com/citations?hl=en&user=u71IKxAAAAAJ&view_op=list_works&sortby=pubdate). 
 
-A few interesting papers:
+A few of my own favourite papers:
 * [On the utility of gradient compression in distributed training systems, MLSys'22](https://proceedings.mlsys.org/paper_files/paper/2022/hash/773862fcc2e29f650d68960ba5bd1101-Abstract.html)
 * [Bagpipe: Deep Recommendation Model Training, SOSP'23](https://arxiv.org/abs/2202.12429)
 
