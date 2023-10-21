@@ -2,7 +2,7 @@
 layout: default 
 ---
 <!--# About Me-->
-I am a fifth year grad student at UW-Madison. Advised by Dimitris Papailipolous and Shivaram Venkataraman . 
+I am a fifth year grad student at UW-Madison. Advised by [Dimitris Papailiopoulos](https://papail.io/) and [Shivaram Venkataraman](https://shivaram.org/) . 
 My research interests are primarily in Systems for Machine Learning, especially around distributed training and inference of ML workloads. 
 
 When I am not being a grad student, I can be found racing keelboats on Lake Mendota or alpine skiing on the slopes around Madison. I also double up as a sailing instructor at the UW-Madison Sailing club. 
