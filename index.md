@@ -2,7 +2,13 @@
 layout: default 
 ---
 <!--# About Me-->
-I am a grad student at UW-Madison. Who has done nothing significant till now. 
-This page is placeholder assuming I do something worth showcasing in future.
+I am a fifth year grad student at UW-Madison. Advised by Dimitris Papailipolous and Shivaram Venkataraman . My research interests are primarily in Systems for Machine Learning. When I am not being a grad student, I can be found racing keelboats on Lake Mendota or alpine skiing on the slopes around Madison. I also double up as a sailing instructor at the UW-Madison Sailing club. 
+
+#### Publications 
+An up to date publication list can be found [here](https://scholar.google.com/citations?hl=en&user=u71IKxAAAAAJ&view_op=list_works&sortby=pubdate). 
+
+A few interesting papers:
+* [On the utility of gradient compression in distributed training systems, MLSys'22](https://proceedings.mlsys.org/paper_files/paper/2022/hash/773862fcc2e29f650d68960ba5bd1101-Abstract.html)
+* [Bagpipe: Deep Recommendation Model Training, SOSP'23](https://arxiv.org/abs/2202.12429)
 
 
