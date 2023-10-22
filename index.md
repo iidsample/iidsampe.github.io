@@ -5,7 +5,11 @@ layout: default
 I am a fifth year grad student at UW-Madison. Advised by [Dimitris Papailiopoulos](https://papail.io/) and [Shivaram Venkataraman](https://shivaram.org/) . 
 My research interests are primarily in Systems for Machine Learning, especially around distributed training and inference of ML workloads. 
 
+
+
 Prior to grad school I spent ~two very formative years at [Mad Street Den](https://www.madstreetden.com/), starting when it used to be an early stage startup in a basement with six people. I also have significant amount of consulting experience, building large scale, cost-efficient infrastructure for ML deployment and data management. 
+
+
 
 When I am not being a grad student, I can be found racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also double up as a sailing instructor at the UW-Madison's Hoofers Sailing club, mostly teaching keelboat racing on J-24s.
 
