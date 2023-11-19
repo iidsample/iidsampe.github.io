@@ -11,7 +11,7 @@ Prior to grad school I spent ~two very formative years at [Mad Street Den](https
 
 
 
-When I am not being a grad student, I can be found racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also double up as a sailing instructor at the UW-Madison's Hoofers Sailing club, mostly teaching keelboat racing on J-24s.
+When I am not being a grad student, I can be found racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also double up as a sailing instructor at the UW-Madison's Hoofers Sailing club, mostly teaching keelboat sailing. Occasionally I also teach tweens dingy sailing. 
 
 #### Publications 
 An up to date publication list can be found [here](https://scholar.google.com/citations?hl=en&user=u71IKxAAAAAJ&view_op=list_works&sortby=pubdate). 
