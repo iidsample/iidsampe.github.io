@@ -3,7 +3,7 @@ layout: default
 ---
 <!--# About Me-->
 I am a fifth year grad student at UW-Madison. Advised by [Dimitris Papailiopoulos](https://papail.io/) and [Shivaram Venkataraman](https://shivaram.org/) . 
-My research interests are primarily in Systems for Machine Learning, especially around distributed training and inference of ML workloads. 
+My research interests are primarily in Systems for Machine Learning, especially around distributed training and inference of ML workloads. During my PhD I have been very fortunate to intern with Bilge Acun at FAIR, Amar Phanishayee at Microsoft Research and Yucheng Low at Apple.
 
 
 
