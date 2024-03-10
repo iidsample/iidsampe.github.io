@@ -11,12 +11,15 @@ Prior to grad school I spent ~two very formative years at [Mad Street Den](https
 
 
 
-When I am not being a grad student, I can be found racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also double up as a sailing instructor at the UW-Madison's Hoofers Sailing club, mostly teaching keelboat sailing. Occasionally I also teach tweens dingy sailing. 
+When I am not being a grad student, I can be found racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also double up as a sailing instructor at the UW-Madison's Hoofers Sailing club.
+
+#### Service
+Reviewer: ICML '23, ICLR '23, Neurips '22, Neurips '21
+ERC: MLSys'22, Usenix ATC'23
+
 
 #### Publications 
-An up to date publication list can be found [here](https://scholar.google.com/citations?hl=en&user=u71IKxAAAAAJ&view_op=list_works&sortby=pubdate). 
-
-A few of my own favourite papers:
+* Blox: A Modular Toolkit for Deep Learning Schedulers, ***S Agarwal***, *A Phanishayee*, *S Venkataraman*. **Eurosys'24**
 * [On the utility of gradient compression in distributed training systems, MLSys'22](https://proceedings.mlsys.org/paper_files/paper/2022/hash/773862fcc2e29f650d68960ba5bd1101-Abstract.html)
 * [Bagpipe: Deep Recommendation Model Training, SOSP'23](https://arxiv.org/abs/2202.12429)
 
