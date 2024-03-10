@@ -19,6 +19,10 @@ ERC: MLSys'22, Usenix ATC'23
 
 
 #### Publications 
+* Decoding Speculative Decoding. <br />
+*M Yan*, ***S Agarwal***, *S Venkataraman*.<br />
+[[paper](https://arxiv.org/abs/2402.01528)]
+
 * Blox: A Modular Toolkit for Deep Learning Schedulers.<br />
   ***S Agarwal***, *A Phanishayee*, *S Venkataraman*. **Eurosys'24**.<br />
 [[paper](https://arxiv.org/abs/2312.12621)] [[source](https://github.com/msr-fiddle/blox)]
