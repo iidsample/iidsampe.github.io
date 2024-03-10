@@ -31,3 +31,7 @@ ERC: MLSys'22, Usenix ATC'23
 *H Wang*, ***S Agarwal***, *Y Tanaka*, *E Xing*, *D Papailiopoulos*. **MLSys'23**. <br \> 
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 
+* Pufferfish: Communication-efficient models at no extra cost. <br \>
+*H Wang*, ***S Agarwal***, *D Papailiopoulos*. **MLSys'23**. <br \>
+[[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
+
