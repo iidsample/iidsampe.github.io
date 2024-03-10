@@ -14,7 +14,7 @@ Prior to grad school I spent ~two very formative years at [Mad Street Den](https
 When I am not being a grad student, I can be found racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also double up as a sailing instructor at the UW-Madison's Hoofers Sailing club.
 
 #### Service
-Reviewer: ICML '23, ICLR '23, Neurips '22, Neurips '21
+Reviewer: ICML '23, ICLR '23, Neurips '22, Neurips '21 <br />
 ERC: MLSys'22, Usenix ATC'23
 
 
@@ -35,3 +35,14 @@ ERC: MLSys'22, Usenix ATC'23
 *H Wang*, ***S Agarwal***, *D Papailiopoulos*. **MLSys'23**. <br />
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 
+* Adaptive Gradient Communication via Critical Learning Regime Identification. <br />
+***S Agarwal***, *H Wang*, *K Lee*, *S Venkataraman*, *D Papailiopoulos*. MLSys'22. <br />
+[[paper](https://arxiv.org/abs/2010.16248)][[source](https://github.com/uw-mad-dash/Accordion)]
+
+* AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning
+*Y Liu*, ***S Agarwal***, *S Venkataraman*. 
+[[paper](https://arxiv.org/abs/2102.01386)]
+
+* Attack of the tails: Yes, you really can backdoor federated learning. <br />
+*H Wang*, *K Sreenivasan*, *S Rajput*, *H Vishwakarma*, ***S Agarwal***, *J Sohn*, *K Lee*, *D Papailiopoulos*. 
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html)]
