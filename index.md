@@ -19,9 +19,10 @@ ERC: MLSys'22, Usenix ATC'23
 
 
 #### Publications 
-* Blox: A Modular Toolkit for Deep Learning Schedulers, 
-  
+* Blox: A Modular Toolkit for Deep Learning Schedulers. <br />
   ***S Agarwal***, *A Phanishayee*, *S Venkataraman*. **Eurosys'24**
+
+* Bagpipe: Accelerating deep recommendation model training
 * [On the utility of gradient compression in distributed training systems, MLSys'22](https://proceedings.mlsys.org/paper_files/paper/2022/hash/773862fcc2e29f650d68960ba5bd1101-Abstract.html)
 * [Bagpipe: Deep Recommendation Model Training, SOSP'23](https://arxiv.org/abs/2202.12429)
 
