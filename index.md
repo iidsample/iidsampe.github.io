@@ -21,17 +21,17 @@ ERC: MLSys'22, Usenix ATC'23
 #### Publications 
 * Blox: A Modular Toolkit for Deep Learning Schedulers.<br />
   ***S Agarwal***, *A Phanishayee*, *S Venkataraman*. **Eurosys'24**.<br />
-[[paper](https://arxiv.org/abs/2312.12621)][[source](https://github.com/msr-fiddle/blox) ]
+[[paper](https://arxiv.org/abs/2312.12621)] [[source](https://github.com/msr-fiddle/blox)]
 
-* Bagpipe: Accelerating deep recommendation model training.<br \>
-***S Agarwal***, *C Yan*, *Z Zhang*, *S Venkataraman*. **SOSP'23**.<br \>
+* Bagpipe: Accelerating deep recommendation model training.<br />
+***S Agarwal***, *C Yan*, *Z Zhang*, *S Venkataraman*. **SOSP'23**.<br />
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)][[source](https://github.com/uw-mad-dash/bagpipe)]
 
-* Cuttlefish: Low-rank Model Training without All The Tuning. <br \>
-*H Wang*, ***S Agarwal***, *Y Tanaka*, *E Xing*, *D Papailiopoulos*. **MLSys'23**. <br \> 
+* Cuttlefish: Low-rank Model Training without All The Tuning. <br />
+*H Wang*, ***S Agarwal***, *Y Tanaka*, *E Xing*, *D Papailiopoulos*. **MLSys'23**. <br /> 
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 
-* Pufferfish: Communication-efficient models at no extra cost. <br \>
-*H Wang*, ***S Agarwal***, *D Papailiopoulos*. **MLSys'23**. <br \>
+* Pufferfish: Communication-efficient models at no extra cost. <br />
+*H Wang*, ***S Agarwal***, *D Papailiopoulos*. **MLSys'23**. <br />
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 
