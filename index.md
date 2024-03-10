@@ -40,7 +40,7 @@ ERC: MLSys'22, Usenix ATC'23
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 
 * Adaptive Gradient Communication via Critical Learning Regime Identification. <br />
-***S Agarwal***, *H Wang*, *K Lee*, *S Venkataraman*, *D Papailiopoulos*. MLSys'22. <br />
+***S Agarwal***, *H Wang*, *K Lee*, *S Venkataraman*, *D Papailiopoulos*. **MLSys'22**. <br />
 [[paper](https://arxiv.org/abs/2010.16248)][[source](https://github.com/uw-mad-dash/Accordion)]
 
 * AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning. <br />
