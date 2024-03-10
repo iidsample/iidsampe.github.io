@@ -19,8 +19,9 @@ ERC: MLSys'22, Usenix ATC'23
 
 
 #### Publications 
-* Blox: A Modular Toolkit for Deep Learning Schedulers. <br />
-  ***S Agarwal***, *A Phanishayee*, *S Venkataraman*. **Eurosys'24**. [[paper](https://arxiv.org/abs/2312.12621)][[source](https://github.com/msr-fiddle/blox) ]
+* Blox: A Modular Toolkit for Deep Learning Schedulers.<br />
+  ***S Agarwal***, *A Phanishayee*, *S Venkataraman*. **Eurosys'24**.<br />
+[[paper](https://arxiv.org/abs/2312.12621)][[source](https://github.com/msr-fiddle/blox) ]
 
 * Bagpipe: Accelerating deep recommendation model training
 * [On the utility of gradient compression in distributed training systems, MLSys'22](https://proceedings.mlsys.org/paper_files/paper/2022/hash/773862fcc2e29f650d68960ba5bd1101-Abstract.html)
