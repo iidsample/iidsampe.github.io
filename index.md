@@ -39,10 +39,10 @@ ERC: MLSys'22, Usenix ATC'23
 ***S Agarwal***, *H Wang*, *K Lee*, *S Venkataraman*, *D Papailiopoulos*. MLSys'22. <br />
 [[paper](https://arxiv.org/abs/2010.16248)][[source](https://github.com/uw-mad-dash/Accordion)]
 
-* AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning
-*Y Liu*, ***S Agarwal***, *S Venkataraman*. 
+* AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning. <br />
+*Y Liu*, ***S Agarwal***, *S Venkataraman*. <br />
 [[paper](https://arxiv.org/abs/2102.01386)]
 
 * Attack of the tails: Yes, you really can backdoor federated learning. <br />
-*H Wang*, *K Sreenivasan*, *S Rajput*, *H Vishwakarma*, ***S Agarwal***, *J Sohn*, *K Lee*, *D Papailiopoulos*. 
+*H Wang*, *K Sreenivasan*, *S Rajput*, *H Vishwakarma*, ***S Agarwal***, *J Sohn*, *K Lee*, *D Papailiopoulos*. <br />
 [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html)]
