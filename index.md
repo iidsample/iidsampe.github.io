@@ -23,8 +23,11 @@ ERC: MLSys'22, Usenix ATC'23
   ***S Agarwal***, *A Phanishayee*, *S Venkataraman*. **Eurosys'24**.<br />
 [[paper](https://arxiv.org/abs/2312.12621)][[source](https://github.com/msr-fiddle/blox) ]
 
-* Bagpipe: Accelerating deep recommendation model training
-* [On the utility of gradient compression in distributed training systems, MLSys'22](https://proceedings.mlsys.org/paper_files/paper/2022/hash/773862fcc2e29f650d68960ba5bd1101-Abstract.html)
-* [Bagpipe: Deep Recommendation Model Training, SOSP'23](https://arxiv.org/abs/2202.12429)
+* Bagpipe: Accelerating deep recommendation model training.<br \>
+***S Agarwal***, *C Yan*, *Z Zhang*, *S Venkataraman*. **SOSP'23**.<br \>
+[[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)][[source](https://github.com/uw-mad-dash/bagpipe)]
 
+* Cuttlefish: Low-rank Model Training without All The Tuning. <br \>
+*H Wang*, ***S Agarwal***, *Y Tanaka*, *E Xing*, *D Papailiopoulos*. **MLSys'23**. <br \> 
+[[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 
