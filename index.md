@@ -19,6 +19,10 @@ ERC: MLSys'22, Usenix ATC'23
 
 
 #### Publications 
+* CHAI: Clustered Head Attention for Efficient LLM Inference. <br />
+***Saurabh Agarwal***, *Bilge Acun*, *Basil Homer*, *Mostafa Elhoushi*, *Yejin Lee*, *Shivaram Venkataraman*, *Dimitris Papailiopoulos*, *Carole-Jean Wu*.<br />
+[[paper](https://arxiv.org/abs/2403.08058)]
+
 * Decoding Speculative Decoding. <br />
 *M Yan*, ***S Agarwal***, *S Venkataraman*.<br />
 [[paper](https://arxiv.org/abs/2402.01528)]
