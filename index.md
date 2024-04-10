@@ -38,11 +38,11 @@ ERC: MLSys '22, Usenix ATC '23
 *H Wang*, ***S Agarwal***, *D Papailiopoulos*. **MLSys'22**. <br />
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 * On the utility of Gradient compression
-***S Agarwal***, *H Wang*, *S Venkataraman*, *D Papailiopoulos*. **MLSys'23**. <br />
+***S Agarwal***, *H Wang*, *S Venkataraman*, *D Papailiopoulos*. **MLSys'22**. <br />
 [[paper](https://proceedings.mlsys.org/paper_files/paper/2022/file/773862fcc2e29f650d68960ba5bd1101-Paper.pdf)][[source](https://github.com/uw-mad-dash/GradCompressionUtility)]
 
 * Adaptive Gradient Communication via Critical Learning Regime Identification. <br />
-***S Agarwal***, *H Wang*, *K Lee*, *S Venkataraman*, *D Papailiopoulos*. **MLSys'22**. <br />
+***S Agarwal***, *H Wang*, *K Lee*, *S Venkataraman*, *D Papailiopoulos*. **MLSys'21**. <br />
 [[paper](https://arxiv.org/abs/2010.16248)][[source](https://github.com/uw-mad-dash/Accordion)]
 
 * AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning. <br />
