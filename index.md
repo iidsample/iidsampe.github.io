@@ -10,12 +10,12 @@ When I am not being a grad student, I can be found racing keelboats on [Lake Men
 
 #### Service
 Reviewer: ICML '23, ICLR '23, Neurips '22, Neurips '21 <br />
-ERC: MLSys'22, Usenix ATC'23
+ERC: MLSys '22, Usenix ATC '23
 
 
 #### Publications 
 * CHAI: Clustered Head Attention for Efficient LLM Inference. <br />
-***Saurabh Agarwal***, *Bilge Acun*, *Basil Homer*, *Mostafa Elhoushi*, *Yejin Lee*, *Shivaram Venkataraman*, *Dimitris Papailiopoulos*, *Carole-Jean Wu*.<br />
+***S Agarwal***, *B Acun*, *B Homer*, *M Elhoushi*, *Y Lee*, *S Venkataraman*, *D Papailiopoulos*, *C Wu*.<br />
 [[paper](https://arxiv.org/abs/2403.08058)]
 
 * Decoding Speculative Decoding. <br />
@@ -37,6 +37,9 @@ ERC: MLSys'22, Usenix ATC'23
 * Pufferfish: Communication-efficient models at no extra cost. <br />
 *H Wang*, ***S Agarwal***, *D Papailiopoulos*. **MLSys'23**. <br />
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
+* On the utility of Gradient compression
+***S Agarwal***, *H Wang*, *S Venkataraman*, *D Papailiopoulos*. **MLSys'23**. <br />
+[[paper](https://proceedings.mlsys.org/paper_files/paper/2022/file/773862fcc2e29f650d68960ba5bd1101-Paper.pdf)][[source](https://github.com/uw-mad-dash/GradCompressionUtility)]
 
 * Adaptive Gradient Communication via Critical Learning Regime Identification. <br />
 ***S Agarwal***, *H Wang*, *K Lee*, *S Venkataraman*, *D Papailiopoulos*. **MLSys'22**. <br />
