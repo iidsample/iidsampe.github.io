@@ -35,7 +35,7 @@ ERC: MLSys '22, Usenix ATC '23
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 
 * Pufferfish: Communication-efficient models at no extra cost. <br />
-*H Wang*, ***S Agarwal***, *D Papailiopoulos*. **MLSys'23**. <br />
+*H Wang*, ***S Agarwal***, *D Papailiopoulos*. **MLSys'22**. <br />
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613142)]
 * On the utility of Gradient compression
 ***S Agarwal***, *H Wang*, *S Venkataraman*, *D Papailiopoulos*. **MLSys'23**. <br />
