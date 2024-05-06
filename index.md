@@ -14,9 +14,14 @@ ERC: MLSys '22, Usenix ATC '23
 
 
 #### Publications 
+
 * CHAI: Clustered Head Attention for Efficient LLM Inference. <br />
-***S Agarwal***, *B Acun*, *B Homer*, *M Elhoushi*, *Y Lee*, *S Venkataraman*, *D Papailiopoulos*, *C Wu*.<br />
+***S Agarwal***, *B Acun*, *B Hosmer*, *M Elhoushi*, *Y Lee*, *S Venkataraman*, *D Papailiopoulos*, *C Wu*. ** ICML' 24** <br />
 [[paper](https://arxiv.org/abs/2403.08058)]
+
+* LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding
+*M Elhoushi*, *A Shrivastava*, *D Liskovich*, *B Hosmer*, *B Wasti*, *L Lai*, *A Mahmoud*, *B Acun*, ***Saurabh Agarwal***, *A Roman*, *A Aly*, *B Chen*, *C Wu* ** ACL' 24** <br />
+[[paper](https://arxiv.org/abs/2404.16710)]
 
 * Decoding Speculative Decoding. <br />
 *M Yan*, ***S Agarwal***, *S Venkataraman*.<br />
