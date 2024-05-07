@@ -56,5 +56,5 @@ ERC: MLSys '22, Usenix ATC '23
 [[paper](https://arxiv.org/abs/2102.01386)]
 
 * Attack of the tails: Yes, you really can backdoor federated learning. <br />
-*H Wang*, *K Sreenivasan*, *S Rajput*, *H Vishwakarma*, ***S Agarwal***, *J Sohn*, *K Lee*, *D Papailiopoulos*.  **Neurips'24**  <br />
+*H Wang*, *K Sreenivasan*, *S Rajput*, *H Vishwakarma*, ***S Agarwal***, *J Sohn*, *K Lee*, *D Papailiopoulos*.  **Neurips'21**  <br />
 [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html)]
