@@ -20,7 +20,7 @@ ERC: MLSys '22, Usenix ATC '23
 [[paper](https://arxiv.org/abs/2403.08058)]
 
 * LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding
-*M Elhoushi*, *A Shrivastava*, *D Liskovich*, *B Hosmer*, *B Wasti*, *L Lai*, *A Mahmoud*, *B Acun*, ***Saurabh Agarwal***, *A Roman*, *A Aly*, *B Chen*, *C Wu*. **ACL' 24** <br />
+*M Elhoushi*, *A Shrivastava*, *D Liskovich*, *B Hosmer*, *B Wasti*, *L Lai*, *A Mahmoud*, *B Acun*, ***S Agarwal***, *A Roman*, *A Aly*, *B Chen*, *C Wu*. **ACL' 24** <br />
 [[paper](https://arxiv.org/abs/2404.16710)]
 
 * Decoding Speculative Decoding. <br />
@@ -56,5 +56,5 @@ ERC: MLSys '22, Usenix ATC '23
 [[paper](https://arxiv.org/abs/2102.01386)]
 
 * Attack of the tails: Yes, you really can backdoor federated learning. <br />
-*H Wang*, *K Sreenivasan*, *S Rajput*, *H Vishwakarma*, ***S Agarwal***, *J Sohn*, *K Lee*, *D Papailiopoulos*. <br />
+*H Wang*, *K Sreenivasan*, *S Rajput*, *H Vishwakarma*, ***S Agarwal***, *J Sohn*, *K Lee*, *D Papailiopoulos*.  **Neurips'24**  <br />
 [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html)]
