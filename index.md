@@ -10,7 +10,7 @@ My research interests are primarily in Systems for Machine Learning, especially 
 During my time in Madison, when I was not being a grad student, I would be found racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also doubled up as a sailing instructor at the UW-Madison's Hoofers Sailing club. Since moving to Austin, I have been racing keelboats at Lake Travis. 
 
 ### Teaching
-CS 395T, [Principles of Learned Systems](saurabh.dev/cs395t)
+CS 395T, [Principles of Learned Systems](/cs395t)
 
 #### Service
 Reviewer: ICML '23, ICLR '23, Neurips '22, Neurips '21 <br />
